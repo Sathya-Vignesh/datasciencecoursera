@@ -1,2 +1,2 @@
 # datasciencecoursera
-Assignment purpose
+This is a mark down file
